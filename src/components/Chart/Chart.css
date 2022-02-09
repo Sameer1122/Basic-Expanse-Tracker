@@ -1,0 +1,10 @@
+.chart {
+  padding: 1rem;
+  border-radius: 12px;
+  /*background-color: #1b5b7373;*/
+  background: radial-gradient(#499fce6e, #000000ed);
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  height: 10rem;
+}
